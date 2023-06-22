@@ -32,7 +32,7 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **akankush2000@gmail.com** && **ankush@mackph.com**
+- 📫 Reach me at : **21cs1008@mvn.edu.in** && **Dushyantsorout2002@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
