@@ -60,13 +60,13 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
+ - 📍 **MVN University**-----------------------**< 2021 - 2025 >**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Dayanand, Haryana**------------------**< 2020-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **Dayanand, Haryana**------------------**< 20118-2019 >**\
    📖**Secondary Schooling**
  
    
