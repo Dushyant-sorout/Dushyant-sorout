@@ -32,7 +32,6 @@ I am an intermediate back-end developer, graphic and Adobe designer working for 
 
 - 🌱 I’m currently in love with <b>DeepLearning</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
-- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **21cs1008@mvn.edu.in** && **Dushyantsorout2002@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
